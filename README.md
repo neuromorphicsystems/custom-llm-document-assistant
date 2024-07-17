@@ -24,8 +24,8 @@ This project implements an advanced document processing and querying system. It 
 ## Installation
 
 1. Clone the repository:
-2. Install required dependencies
-3. 3. Install Ollama by following the instructions at [Ollama's official website](https://ollama.ai/).
+2. Install required dependencies, or user docker image
+3. Install Ollama by following the instructions at [Ollama's official website](https://ollama.ai/).
 
 ## Usage
 
