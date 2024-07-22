@@ -1,1 +1,1 @@
-
+The Dummy Survey System (DSS) is a comprehensive feedback collection tool used by University X to gather insights on learning and teaching. Every semester, students receive email links to participate in anonymous surveys for each of their courses. These surveys cover various aspects of the educational experience, including learning materials, assessments, collaboration, technology utilization, and overall satisfaction. Students are also encouraged to provide comments on the best aspects of their courses and areas for improvement
