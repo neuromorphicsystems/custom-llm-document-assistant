@@ -1,10 +1,9 @@
 # custom-llm-document-assistant
 This project implements a document processing and querying system using a custom Language Model (LLM) and semantic search. It allows users to load PDF documents, process them into chunks, create embeddings, and then query the processed information using a streamlit-based user interface.
+- Embedding models: You could try other models from the Hugging Face Hub, such as "distilbert-base-uncased" or "roberta-base".
+- Language models: Instead of Ollama's Llama, you could integrate other LLMs like OpenAI's GPT models, Google's PaLM, or open-source alternatives like GPT-J or BLOOM.
 
 
-## Overview
-
-This project implements an advanced document processing and querying system. It allows users to load PDF documents, process them into manageable chunks, create embeddings for efficient searching, and then query the processed information using a custom Language Model (LLM) through a user-friendly interface.
 
 ## Features
 
